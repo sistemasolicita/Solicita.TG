@@ -1,0 +1,5 @@
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Domínio.Testes\bin\Debug\Solicita.TG.Domínio.Testes.dll
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Domínio.Testes\bin\Debug\Solicita.TG.Domínio.Testes.pdb
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Domínio.Testes\obj\Debug\Solicita.TG.Domínio.Testes.csprojResolveAssemblyReference.cache
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Domínio.Testes\obj\Debug\Solicita.TG.Domínio.Testes.dll
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Domínio.Testes\obj\Debug\Solicita.TG.Domínio.Testes.pdb

@@ -1,0 +1,5 @@
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Serviços\bin\Debug\Solicita.TG.Serviços.dll
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Serviços\bin\Debug\Solicita.TG.Serviços.pdb
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Serviços\obj\Debug\Solicita.TG.Serviços.csprojResolveAssemblyReference.cache
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Serviços\obj\Debug\Solicita.TG.Serviços.dll
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Serviços\obj\Debug\Solicita.TG.Serviços.pdb

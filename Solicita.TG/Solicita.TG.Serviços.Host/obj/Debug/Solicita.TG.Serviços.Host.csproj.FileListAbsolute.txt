@@ -1,0 +1,6 @@
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Serviços.Host\bin\Debug\Solicita.TG.Serviços.Host.exe.config
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Serviços.Host\bin\Debug\Solicita.TG.Serviços.Host.exe
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Serviços.Host\bin\Debug\Solicita.TG.Serviços.Host.pdb
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Serviços.Host\obj\Debug\Solicita.TG.Serviços.Host.csprojResolveAssemblyReference.cache
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Serviços.Host\obj\Debug\Solicita.TG.Serviços.Host.exe
+c:\Users\jonathan.santos\documents\visual studio 2012\Projects\Solicita.TG\Solicita.TG.Serviços.Host\obj\Debug\Solicita.TG.Serviços.Host.pdb

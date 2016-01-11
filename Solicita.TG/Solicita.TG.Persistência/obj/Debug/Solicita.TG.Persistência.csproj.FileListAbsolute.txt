@@ -1,0 +1,5 @@
+C:\Users\jonathan.santos\Documents\Visual Studio 2012\Projects\Solicita.TG\Solicita.TG.Persistência\bin\Debug\Solicita.TG.Persistência.dll
+C:\Users\jonathan.santos\Documents\Visual Studio 2012\Projects\Solicita.TG\Solicita.TG.Persistência\bin\Debug\Solicita.TG.Persistência.pdb
+C:\Users\jonathan.santos\Documents\Visual Studio 2012\Projects\Solicita.TG\Solicita.TG.Persistência\obj\Debug\Solicita.TG.Persistência.csprojResolveAssemblyReference.cache
+C:\Users\jonathan.santos\Documents\Visual Studio 2012\Projects\Solicita.TG\Solicita.TG.Persistência\obj\Debug\Solicita.TG.Persistência.dll
+C:\Users\jonathan.santos\Documents\Visual Studio 2012\Projects\Solicita.TG\Solicita.TG.Persistência\obj\Debug\Solicita.TG.Persistência.pdb
